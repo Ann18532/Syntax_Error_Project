@@ -16,4 +16,16 @@ Hello,
       This was our first hackathon and it became a lifetime memory.Thus,we are glad to participate in this hackathon.Our main goal to
       participate is to learn new things about development and it indeed was worth participating.
       
+      https://github.com/Ann18532/Syntax_Error_Project/tree/master/app/src/test/java/com/example/calcit
+      
+      For Java activity files
+      
+      https://github.com/Ann18532/Syntax_Error_Project/tree/master/app/src/main/res/layout
+     
+      For xml files
+      
+      https://github.com/Ann18532/Syntax_Error_Project/tree/master/app/src/main/res/drawable-v24
+      
+      For Images used
+      
       
